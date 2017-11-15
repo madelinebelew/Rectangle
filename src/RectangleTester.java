@@ -24,5 +24,9 @@ public class RectangleTester {
 	System.out.println("Square diagonal: " + mySquare.getDiagonal());
 	
 	input.close();
+	
+	asD
+	as
+	d
 	}
 }
